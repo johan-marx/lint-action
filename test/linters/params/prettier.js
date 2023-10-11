@@ -13,6 +13,7 @@ const extensions = [
 	"md",
 	"sass",
 	"scss",
+	"svelte",
 	"ts",
 	"tsx",
 	"vue",
