@@ -160,7 +160,7 @@ inputs:
   prettier_extensions:
     description: Extensions of files to check with Prettier
     required: false
-    default: "css,html,js,json,jsx,md,sass,scss,ts,tsx,vue,yaml,yml"
+    default: "css,html,js,json,jsx,md,sass,scss,svelte,ts,tsx,vue,yaml,yml"
   prettier_command_prefix:
     description: Shell command to prepend to the linter command. Will default to `npx --no-install` for NPM and `yarn run --silent` for Yarn.
     required: false
